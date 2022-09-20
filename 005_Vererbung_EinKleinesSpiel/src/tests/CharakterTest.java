@@ -80,20 +80,5 @@ public class CharakterTest {
 	}
 	
 }
-// KISS
-// DRY
 
-
-//Übung: In der Test-Klasse(oder in einer zweiten Test-Klasse) eine Schleife und/oder Methode erstellen:
-//Es soll so lange gekämpft werden, bis ein Charakter besiegt ist
-//Wenn Charakter besiegt ist, darf er nicht mehr verwunden
-//
-//Organistation eines Kampfs: Kampf-Klasse/Kampfrunden-Klasse/Turnier-Klasse erstellen
-//Der Sieger soll in der Konsole ausgeben werde
-//Charakter-Klasse soll NICHT geändert werden
-
-//Klasse im Projekt, die die main-Methode enthält: organisiert den Ablauf des Spiels
-
-//Kampf von 3 Charaker-Objekten: Regeln selber aufstellen: Regeln im Dokumentationskommentar erklären
-//Kampf von sovielen Charakter-Objekten, wie der Benutzer möchte(SCHWIERIG!)
 
