@@ -28,7 +28,7 @@ import java.util.Random;
  * Hier: Ein Konstruktor wird explizit erstellt, damit die Lebenspunkte und die Schadensrate so initialisiert werden können
  * wie es nach der Analyse des Objekts gewünscht ist
  * 
- * @author Alfa
+ * @author Yasin
  *
  */
 public class Charakter {
